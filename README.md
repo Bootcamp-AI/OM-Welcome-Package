@@ -2,7 +2,7 @@
 Everything you need to know to contribute to Bootcamp AI!
 
 <div align="center">
-  <img alt="Bootcamp Logo" src="/logo.png">
+  <img alt="Bootcamp Logo" src="/logo.png" widht="200" height="200">
   <h1><strong>Bootcamp AI Welcome Package</strong></h1>
   <p>Welcome to Bootcamp AI! The goal of this Welcome Package is to help you:<br><br>
       get to know who we are and what we do,<br>
@@ -19,7 +19,6 @@ Bootcamp AI es una organización que trata de disminuir la brecha tecnológica c
 
 Nuestros valores son la **igualdad de oportunidades para todas las personas**.
 
-<br><br>
 
 En Bootcamp AI creemos que el modelo “tradicional” de educación superior está roto. Cada año, jóvenes desde los 17 años asumen decenas de miles de dólares en deudas estudiantiles y rezan para que la educación en la que están invirtiendo los lleve a un trabajo [devnow](http://devnow.org).
 
@@ -56,7 +55,7 @@ A continuación se muestra una lista de todos nuestros equipos de la comunidad
 ## Equipo de educación
 *Ayuda a los posibles contribuyentes interesados en aprender conceptos de IA segura y privada mediante la organización de cohortes, grupos de estudio, desafíos de código, mini-hackatones y otros grupos de aprendizaje que les ayuden a comprendert y contribuir a B.AI.*
 
-**Líder del equipo:** Paolo Paste **Miembros del equipo** : por determinar
+**Líder del equipo:** @ **Miembros del equipo** : por determinar
 
 **Requisitos para unirse:**
 
@@ -119,7 +118,7 @@ A continuación se muestra una lista de todos nuestros equipos de la comunidad
 
 ## Geting Started
 
-### Paso 1: únete a Slack
+### Paso 1: Únete a Slack
 Lo primero que debe hacer es [unirse a nuestra comunidad de Slack](https://join.slack.com/t/bootcampai/shared_invite/zt-nvcq3zab-rpFNy4bmPDwl~YW5TNSDiQ) . Este es el mejor lugar para hacer preguntas, conocer a otros miembros del equipo y mantenerse actualizado sobre lo que sucede en la comunidad.
 
 Una vez que se haya unido a la organización de Slack, hay muchos canales a los que puede unirse para obtener ayuda y comunidad, que incluyen:
