@@ -1,6 +1,7 @@
 <div align="center">
   <img alt="Bootcamp Logo" src="/imgs/logo.png" widht="200" height="200">
-  <h1><strong>¡Bienvenido a Bootcamp AI! El objetivo de este Welcome Package es ayudarlo a: <br> <br>
+  <h1><strong>Bootcamp AI Welcome Package</strong></h1>
+  <p>¡Bienvenido a Bootcamp AI! El objetivo de este Welcome Package es ayudarlo a: <br> <br>
       conozca quiénes somos y qué hacemos, <br>
       encuentra el mejor lugar para que encajes en la comunidad, <br>
       ¡y comience su camino para contribuir a su manera única! <br> <br>
@@ -8,7 +9,7 @@
 </div>
 
 Versión
-<a href="./README_EN.md"><img src="/imgs/es_ES.png"> </a>| <a href=""> <img src="/imgs/en.png" ></a>
+<a href="./README_EN.md"><img src="/imgs/es_ES.png"> </a>| <a href="./README_EN.md"> <img src="/imgs/en.png" ></a>
 
 
 
