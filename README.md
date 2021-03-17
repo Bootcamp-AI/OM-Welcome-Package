@@ -1,8 +1,5 @@
-# OM-Welcome-Package
-Everything you need to know to contribute to Bootcamp AI!
-
 <div align="center">
-  <img alt="Bootcamp Logo" src="/logo.png" widht="200" height="200">
+  <img alt="Bootcamp Logo" src="/imgs/logo.png" widht="200" height="200">
   <h1><strong>Bootcamp AI Welcome Package</strong></h1>
   <p>Welcome to Bootcamp AI! The goal of this Welcome Package is to help you:<br><br>
       get to know who we are and what we do,<br>
@@ -10,6 +7,9 @@ Everything you need to know to contribute to Bootcamp AI!
       and get started on your path to contributing in your unique way!<br><br>
   We're happy you're here. :)</p>
 </div>
+
+Versión
+<img src="/imgs/es_Es.png"> | <img src="/imgs/en.png">
 
 
 
@@ -131,7 +131,7 @@ Canales de biblioteca: para preguntas / comunicación sobre bibliotecas Bootcamp
 
 <div align="center">
   <a href="https://join.slack.com/t/bootcampai/shared_invite/zt-nvcq3zab-rpFNy4bmPDwl~YW5TNSDiQ">
-    <img alt="Join B.AI Slack" src="/join-our-slack.png" width="185">
+    <img alt="Join B.AI Slack" src="/imgs/join-our-slack.png" width="185">
   </a>
 </div>
 
