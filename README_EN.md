@@ -1,14 +1,15 @@
 <div align="center">
   <img alt="Bootcamp Logo" src="/imgs/logo.png" widht="200" height="200">
-  <h1><strong>¡Bienvenido a Bootcamp AI! El objetivo de este Welcome Package es ayudarlo a: <br> <br>
-      conozca quiénes somos y qué hacemos, <br>
-      encuentra el mejor lugar para que encajes en la comunidad, <br>
-      ¡y comience su camino para contribuir a su manera única! <br> <br>
-  Estamos felices de que estés aquí.v</p>
+  <h1><strong>Bootcamp AI Welcome Package</strong></h1>
+  <p>Welcome to Bootcamp AI! The goal of this Welcome Package is to help you:<br><br>
+      get to know who we are and what we do,<br>
+      find the best place for you to fit into the community,<br>
+      and get started on your path to contributing in your unique way!<br><br>
+  We're happy you're here. :)</p>
 </div>
 
-Versión
-<a href="./README_EN.md"><img src="/imgs/es_ES.png"> </a>| <a href=""> <img src="/imgs/en.png" ></a>
+Version<br>
+<a href="./README.md"><img src="/imgs/es_ES.png"> </a>| <a href=""> <img src="/imgs/en.png" ></a>
 
 
 
@@ -139,10 +140,9 @@ Canales de biblioteca: para preguntas / comunicación sobre bibliotecas Bootcamp
 ## Aprende
 
 ### Videos y Laboratorios Introductorios
-Una buena forma de obtener una descripción general de la tecnología que utiliza OpenMined es ver una de las presentaciones:
+A good way to get an overview of the technology that OpenMined uses is to watch one of the presentations:
 
 - **Videos Youtube** [Video](https://www.youtube.com/channel/UC60I2b-XbEoD1mkb0CVK3Uw)<br>
-- **Cursos y Laboratorios Gratuitos** [Cursos y Laboratorios](https://www.youtube.com/watch?reload=9&v=4zrU54VIK6k)
-
+- **Free Courses and Labs** [Cursos y Laboratorios](https://www.youtube.com/watch?reload=9&v=4zrU54VIK6k)
 
 
