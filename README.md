@@ -61,7 +61,7 @@ A continuación se muestra una lista de todos nuestros equipos de la comunidad
 
 - 
 
-**¿Acepta nuevos miembros? Solicitud para unirse**
+**¿Acepta nuevos miembros? [Solicitud para unirse](https://docs.google.com/forms/d/e/1FAIpQLSdHFX1nJXmdrizTC-gv3HS_JUeMI9rLslKKtLhO7r6nrydrgg/viewform)**
 
 
 **Organizar reuniones de** *planes de* **eventos de Bootcamp AI***, seminarios web y otros eventos para que los fellows de ideas afines puedan reunirse para discutir y escuchar charlas sobre temas relevantes para OM.*
@@ -72,7 +72,7 @@ A continuación se muestra una lista de todos nuestros equipos de la comunidad
 
 - tbd
 
-**¿Acepta nuevos miembros? Solicitud para unirse**
+**¿Acepta nuevos miembros? [Solicitud para unirse](https://docs.google.com/forms/d/e/1FAIpQLSdHFX1nJXmdrizTC-gv3HS_JUeMI9rLslKKtLhO7r6nrydrgg/viewform)**
 
 <br>
 
@@ -95,7 +95,7 @@ A continuación se muestra una lista de todos nuestros equipos de la comunidad
 - Deben tener una comprensión básica de los conceptos de Deep Learning de Bootcamp AI, y
 - Deben estar dispuestos a mantenerse actualizados y familiarizarse con el plan de estudios de todas las iniciativas de LT en curso y el plan de estudios en el que se basan (como tutoriales de código B.AI, etc.).
 
-**¿Acepta nuevos miembros? Solicitud para unirse**
+**¿Acepta nuevos miembros? [Solicitud para unirse](https://docs.google.com/forms/d/e/1FAIpQLSdHFX1nJXmdrizTC-gv3HS_JUeMI9rLslKKtLhO7r6nrydrgg/viewform)**
 
 
 <br>
@@ -110,7 +110,7 @@ A continuación se muestra una lista de todos nuestros equipos de la comunidad
 
 - tbd
 
-**¿Acepta nuevos miembros? Solicitud para unirse**
+**¿Acepta nuevos miembros? [Solicitud para unirse](https://docs.google.com/forms/d/e/1FAIpQLSdHFX1nJXmdrizTC-gv3HS_JUeMI9rLslKKtLhO7r6nrydrgg/viewform)**
 
 
 <br>
