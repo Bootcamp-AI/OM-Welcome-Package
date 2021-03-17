@@ -9,70 +9,68 @@
 </div>
 
 Version<br>
-<a href="./README.md"><img src="/imgs/es_ES.png"> </a>| <a href=""> <img src="/imgs/en.png" ></a>
+<a href="./README.md"><img src="/imgs/es_ES.png"> </a>| <a href="#"> <img src="/imgs/en.png" ></a>
 
 
 
 ## Who We Are
 
-Bootcamp AI es una organización que trata de disminuir la brecha tecnológica con educación de calidad en Latinoamérica y el mundo.
+Bootcamp AI is an organization that tries to reduce the technological gap with quality education in Latin America and the world.
 
-Nuestros valores son la **igualdad de oportunidades para todas las personas**.
+Our values ​​are ** equal opportunities for all people **.
 
+At Bootcamp AI we believe that the “traditional” model of higher education is broken. Every year, young people as young as 17 take on tens of thousands of dollars in student debt and pray that the education they are investing in will lead to a job. [devnow](http://devnow.org).
 
-En Bootcamp AI creemos que el modelo “tradicional” de educación superior está roto. Cada año, jóvenes desde los 17 años asumen decenas de miles de dólares en deudas estudiantiles y rezan para que la educación en la que están invirtiendo los lleve a un trabajo [devnow](http://devnow.org).
+Unfortunately, traditional colleges and universities have no incentive to help their graduates get hired or earn income from the skills they gain.
 
-Por desgracia, los colegios y las universidades tradicionales no tienen ningún incentivo para ayudar a sus graduados a que sean contratados o que obtengan ingresos por las habilidades que obtienen.
+At Boootcamp AI, we believe there is a better focus on education.
 
-En Boootcamp AI, creemos que hay una mejor enfoque en la educación.
-
-Bootcamp AI es un sistema de profesionalización en temas de tecnología y con [devnow](http://devnow.org) ayuda a conectar laboralmente con empresas.
+Bootcamp AI is a professionalization system in technology issues and with [devnow](http://devnow.org) helps to connect with companies.
 
 
 <br><br><br>
 
-# Equipos de la comunidad B.AI
+# Community teams B.AI
 
-A continuación se muestra una lista de todos nuestros equipos de la comunidad , así como toda la información que necesita para unirse.
+Below is a list of all of our community teams, as well as all the information you need to join.
 <br>
+
 ## Diseño
 
-**Creando hermosas comunicaciones en línea con la marca Bootcamp AI** *Diseñadores gráficos, diseñadores web, ilustradores, animadores, fotógrafos y otros creativos altamente capacitados, con pasión por mantener la integridad de la marca Bootcamp AI y crear cosas interesantes para ayudar a promover nuestra comunidad.*
+**Creating beautiful online communications with the brand Bootcamp AI** *Highly skilled graphic designers, web designers, illustrators, animators, photographers, and other creatives with a passion for maintaining the integrity of the Bootcamp AI brand and creating cool things to help promote our community.*
 
-**Líder del equipo: @**
+**Team lead: @**
 
-**Requisitos para unirse:**
+**Requirements to join:**
 
-- Posee un conjunto de habilidades que se sumaría a la capacidad o capacidades de nuestro equipo.
-- Tiene una cartera de alta calidad que pasa la evaluación del líder del equipo
-- Eres competente con el software de diseño principal (InDesign, Illustrator, Photoshop, XD, Sketch)
-- Es bueno para satisfacer los requisitos de diseño y facilitar los cambios de manera oportuna.
-- Eres un gran jugador de equipo que no se toma nada demasiado en serio ni demasiado personalmente :-)
-- Tiene un fuerte deseo de mantener y expandir la marca Bootcamp AI.
-
+- Has a set of skills that would add to the capacity or capabilities of our team.
+- Has a high-quality portfolio that passes the team leader's evaluation
+- You are proficient with the main design software (InDesign, Illustrator, Photoshop, XD, Sketch)
+- It is good at meeting design requirements and facilitating changes in a timely manner.
+- You are a great team player who does not take anything too seriously or too personally :-)
+- Has a strong desire to maintain and expand the Bootcamp AI brand.
 <br>
 
-## Equipo de educación
-*Ayuda a los posibles contribuyentes interesados en aprender conceptos de IA segura y privada mediante la organización de cohortes, grupos de estudio, desafíos de código, mini-hackatones y otros grupos de aprendizaje que les ayuden a comprendert y contribuir a B.AI.*
+## Education Team
+* Helps prospective contributors interested in learning private and secure AI concepts by organizing cohorts, study groups, code challenges, mini-hackathons, and other learning groups that help them understand and contribute to B.AI. *
 
-**Líder del equipo:** @ **Miembros del equipo** : por determinar
+**Team Lead:** @ **Teamemember** : tbd
 
-**Requisitos para unirse:**
+**Requirements to join:**
 
 - 
 
-**¿Acepta nuevos miembros? [Solicitud para unirse](https://docs.google.com/forms/d/e/1FAIpQLSdHFX1nJXmdrizTC-gv3HS_JUeMI9rLslKKtLhO7r6nrydrgg/viewform)**
+**Do you accept new members? [Request to join](https://docs.google.com/forms/d/e/1FAIpQLSdHFX1nJXmdrizTC-gv3HS_JUeMI9rLslKKtLhO7r6nrydrgg/viewform)**
 
 
-**Organizar reuniones de** *planes de* **eventos de Bootcamp AI***, seminarios web y otros eventos para que los fellows de ideas afines puedan reunirse para discutir y escuchar charlas sobre temas relevantes para OM.*
+**Host meetings of** *plans for* **Bootcamp AI** *events, webinars and other events so like-minded fellows can come together to discuss and listen to talks on topics relevant to OM.*
 
-**Líder del equipo: @**
+**Team leader: @**
 
-**Requisitos para unirse:**
-
+**Requirements to join:**
 - tbd
 
-**¿Acepta nuevos miembros? [Solicitud para unirse](https://docs.google.com/forms/d/e/1FAIpQLSdHFX1nJXmdrizTC-gv3HS_JUeMI9rLslKKtLhO7r6nrydrgg/viewform)**
+**Do you accept new members? [Request to join](https://docs.google.com/forms/d/e/1FAIpQLSdHFX1nJXmdrizTC-gv3HS_JUeMI9rLslKKtLhO7r6nrydrgg/viewform)**
 
 <br>
 
@@ -95,7 +93,7 @@ A continuación se muestra una lista de todos nuestros equipos de la comunidad
 - Deben tener una comprensión básica de los conceptos de Deep Learning de Bootcamp AI, y
 - Deben estar dispuestos a mantenerse actualizados y familiarizarse con el plan de estudios de todas las iniciativas de LT en curso y el plan de estudios en el que se basan (como tutoriales de código B.AI, etc.).
 
-**¿Acepta nuevos miembros? [Solicitud para unirse](https://docs.google.com/forms/d/e/1FAIpQLSdHFX1nJXmdrizTC-gv3HS_JUeMI9rLslKKtLhO7r6nrydrgg/viewform)**
+**Do you accept new members? [Request to join](https://docs.google.com/forms/d/e/1FAIpQLSdHFX1nJXmdrizTC-gv3HS_JUeMI9rLslKKtLhO7r6nrydrgg/viewform)**
 
 
 <br>
@@ -110,7 +108,7 @@ A continuación se muestra una lista de todos nuestros equipos de la comunidad
 
 - tbd
 
-**¿Acepta nuevos miembros? [Solicitud para unirse](https://docs.google.com/forms/d/e/1FAIpQLSdHFX1nJXmdrizTC-gv3HS_JUeMI9rLslKKtLhO7r6nrydrgg/viewform)**
+**Do you accept new members? [Request to join](https://docs.google.com/forms/d/e/1FAIpQLSdHFX1nJXmdrizTC-gv3HS_JUeMI9rLslKKtLhO7r6nrydrgg/viewform)**
 
 
 <br>
@@ -119,15 +117,16 @@ A continuación se muestra una lista de todos nuestros equipos de la comunidad
 ## Geting Started
 
 ### Paso 1: Únete a Slack
-Lo primero que debe hacer es [unirse a nuestra comunidad de Slack](https://join.slack.com/t/bootcampai/shared_invite/zt-nvcq3zab-rpFNy4bmPDwl~YW5TNSDiQ) . Este es el mejor lugar para hacer preguntas, conocer a otros miembros del equipo y mantenerse actualizado sobre lo que sucede en la comunidad.
+The first thing you should do is [join our Slack community](https://join.slack.com/t/bootcampai/shared_invite/zt-nvcq3zab-rpFNy4bmPDwl~YW5TNSDiQ). This is the best place to ask questions, meet other team members, and stay up to date on what's going on in the community.<br>
 
-Una vez que se haya unido a la organización de Slack, hay muchos canales a los que puede unirse para obtener ayuda y comunidad, que incluyen:
+Once you have joined the Slack organization, there are many channels that you can join for help and community, including:
 
-Canales basados ​​en la ubicación: busque la ciudad principal más cercana o el nombre de su país para charlar con otras personas de su área.
-Canales basados ​​en temas: comience su búsqueda con topic_, por ejemplo, #topic_beginner_questions o #topic_jobs_in_ai
-Canales comunitarios: comience su búsqueda con community_, por ejemplo, #community_udacity_course o # community_women-of-om
-Canales de educación: comience su búsqueda con edu_, por ejemplo, #edu_learners para obtener información del Equipo de aprendizaje, o # edu_mentorship para obtener información del Equipo de mentores.
-Canales de biblioteca: para preguntas / comunicación sobre bibliotecas Bootcamp AI específicas.
+- **Location Based Channels:**  Search for the closest major city or your country name to chat with others from your area!
+- **Topic Based Channels:**  Start your search with topic_, for instance, *#topic_beginner_questions* or *#topic_jobs_in_ai*
+- **Community Channels:**  Start your search with community_, for instance, *#community_udacity_course* or *#community_women-of-om*
+- **Education Channels:**  Start your search with edu_, for instance, *#edu_learners* for info from the Learning Team, or #*edu_mentorship* for info from the Mentorship Team.
+- **Library Channels:**  For questions/communication about specific OpenMined libraries. 
+
 
 <div align="center">
   <a href="https://join.slack.com/t/bootcampai/shared_invite/zt-nvcq3zab-rpFNy4bmPDwl~YW5TNSDiQ">

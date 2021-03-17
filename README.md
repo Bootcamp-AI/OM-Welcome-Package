@@ -9,7 +9,7 @@
 </div>
 
 Versión
-<a href="./README_EN.md"><img src="/imgs/es_ES.png"> </a>| <a href="./README_EN.md"> <img src="/imgs/en.png" ></a>
+<a href="#"><img src="/imgs/es_ES.png"> </a>| <a href="./README_EN.md"> <img src="/imgs/en.png" ></a>
 
 
 
