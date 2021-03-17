@@ -2,7 +2,7 @@
 Everything you need to know to contribute to Bootcamp AI!
 
 <div align="center">
-  <img alt="OpenMined Logo" src="/images/logo.png">
+  <img alt="Bootcamp Logo" src="/logo.png">
   <h1><strong>Bootcamp AI Welcome Package</strong></h1>
   <p>Welcome to Bootcamp AI! The goal of this Welcome Package is to help you:<br><br>
       get to know who we are and what we do,<br>
@@ -21,7 +21,7 @@ Nuestros valores son la **igualdad de oportunidades para todas las personas**.
 
 <br><br>
 
-En Bootcamp AI creemos que el modelo “tradicional” de educación superior está roto. Cada año, jóvenes desde los 17 años asumen decenas de miles de dólares en deudas estudiantiles y rezan para que la educación en la que están invirtiendo los lleve a un trabajo.devnow
+En Bootcamp AI creemos que el modelo “tradicional” de educación superior está roto. Cada año, jóvenes desde los 17 años asumen decenas de miles de dólares en deudas estudiantiles y rezan para que la educación en la que están invirtiendo los lleve a un trabajo [devnow](http://devnow.org).
 
 Por desgracia, los colegios y las universidades tradicionales no tienen ningún incentivo para ayudar a sus graduados a que sean contratados o que obtengan ingresos por las habilidades que obtienen.
 
@@ -52,6 +52,7 @@ A continuación se muestra una lista de todos nuestros equipos de la comunidad
 - Tiene un fuerte deseo de mantener y expandir la marca Bootcamp AI.
 
 <br>
+
 ## Equipo de educación
 *Ayuda a los posibles contribuyentes interesados en aprender conceptos de IA segura y privada mediante la organización de cohortes, grupos de estudio, desafíos de código, mini-hackatones y otros grupos de aprendizaje que les ayuden a comprendert y contribuir a B.AI.*
 
@@ -111,4 +112,39 @@ A continuación se muestra una lista de todos nuestros equipos de la comunidad
 - tbd
 
 **¿Acepta nuevos miembros? Solicitud para unirse**
+
+
+<br>
+
+
+## Geting Started
+
+### Paso 1: únete a Slack
+Lo primero que debe hacer es [unirse a nuestra comunidad de Slack](https://join.slack.com/t/bootcampai/shared_invite/zt-nvcq3zab-rpFNy4bmPDwl~YW5TNSDiQ) . Este es el mejor lugar para hacer preguntas, conocer a otros miembros del equipo y mantenerse actualizado sobre lo que sucede en la comunidad.
+
+Una vez que se haya unido a la organización de Slack, hay muchos canales a los que puede unirse para obtener ayuda y comunidad, que incluyen:
+
+Canales basados ​​en la ubicación: busque la ciudad principal más cercana o el nombre de su país para charlar con otras personas de su área.
+Canales basados ​​en temas: comience su búsqueda con topic_, por ejemplo, #topic_beginner_questions o #topic_jobs_in_ai
+Canales comunitarios: comience su búsqueda con community_, por ejemplo, #community_udacity_course o # community_women-of-om
+Canales de educación: comience su búsqueda con edu_, por ejemplo, #edu_learners para obtener información del Equipo de aprendizaje, o # edu_mentorship para obtener información del Equipo de mentores.
+Canales de biblioteca: para preguntas / comunicación sobre bibliotecas Bootcamp AI específicas.
+
+<div align="center">
+  <a href="https://join.slack.com/t/bootcampai/shared_invite/zt-nvcq3zab-rpFNy4bmPDwl~YW5TNSDiQ">
+    <img alt="Join B.AI Slack" src="/join-our-slack.png" width="185">
+  </a>
+</div>
+
+<br>
+
+## Aprende
+
+### Videos y Laboratorios Introductorios
+Una buena forma de obtener una descripción general de la tecnología que utiliza OpenMined es ver una de las presentaciones:
+
+- **Videos Youtube** [Video](https://www.youtube.com/channel/UC60I2b-XbEoD1mkb0CVK3Uw)<br>
+- **Cursos y Laboratorios Gratuitos** [Cursos y Laboratorios](https://www.youtube.com/watch?reload=9&v=4zrU54VIK6k)
+
+
 
